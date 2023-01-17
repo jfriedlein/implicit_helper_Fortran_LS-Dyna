@@ -15,6 +15,7 @@ c Usage
 !      ------BEGIN FUNCTIONS-------------------------------------
        include './hsv_get_6x6.f'
        include './get_utan_from_hsv.f'
+       include './stiffnessArray4_to_LSD6x6.f'
 c
       end module implicit_helper
 !DEC$ ENDIF
